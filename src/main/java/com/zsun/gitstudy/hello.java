@@ -17,5 +17,6 @@ public class hello {
         System.out.println("Hello Git!This is my test on hot-fix second fix!");
         System.out.println("Hello Git!This is my test on master!");
         System.out.println("hello Git!This is myPush test by ssh!");
+        System.out.println("hello Git!This is myPull test!");
     }
 }
