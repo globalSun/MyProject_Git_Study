@@ -14,5 +14,6 @@ public class hello {
         System.out.println("Hello Git!");
         System.out.println("Hello Git!This is my test!");
         System.out.println("Hello Git!This is my test on hot-fix!");
+        System.out.println("Hello Git!This is my test on hot-fix second fix!");
     }
 }
